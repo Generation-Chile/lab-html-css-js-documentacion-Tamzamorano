@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #510353;
+  }
+  header {
+    text-align: center;
+    padding: 50px 0;
+    background-image: url('https://img.freepik.com/fotos-premium/persona-sentada-escritorio-dos-monitores-computadora_1072138-172789.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    height: 40vh;
+    overflow: hidden;
+  }
+  #tituloHeader {
+    background-color: #510353;
+    opacity: 80%;
+    font-size: 30px;
+    color:white;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px black;
+  }
+  #tituloHeader2{
+    background: #510353;
+    opacity: 80%;
+    font-size: 50px;
+    color: white;
+    margin-top: 0;
+    -webkit-text-stroke: 0.5px black;
+  }
+  .fsd {
+    color: #fff;
+    font-size: 4em;
+    margin: 0;
+    margin-top: 10px;
+    text-shadow: 2px 2px 2px black;
+  }
+  h2{
+    color: #fff;
+    font-size: 2em;
+    margin-top: 0;
+    text-shadow: 2px 2px 2px black;
+  }
+  p{
+    color: white;
+  }
+  #boton{
+    padding: 10px 20px;
+    font-size: 1em;
+    color: black;
+    border-radius: 10px;
+    border-color: white;
+    cursor: pointer;
+  }
+  section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #ccc;
+    color: #510353;
+    border-radius: 10px;
+    border-color: white;
+    cursor: pointer;
+  }
+  
+  section#form {
+    background: radial-gradient(#ccc, #550b56);
+  }
+  
+  form {
+    margin: 0 auto;
+    max-width: 350px;
+    text-align: left;
+    margin-bottom: 100px;
+    color: black;
+  }
+
+  form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  form input,
+  form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 12px;
+  }
+
+  form button {
+    width: 50%;
+    margin-left: 25%;
+  }
+
+  footer {
+    text-align: center;
+    background-color: #300231;
+    color: #fff;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
